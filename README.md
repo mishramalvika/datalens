@@ -46,7 +46,7 @@ The workflow is straightforward:
 Requires Node.js and npm.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mishramalvika/datalens.git
 cd datalens
 npm install
 npm run dev
